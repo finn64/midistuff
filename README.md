@@ -1,2 +1,2 @@
 # midistuff
-Soundfonts i made, plus some midis (freely available, or slightly modified)
+Soundfonts i got (freely available, or slightly modified)
